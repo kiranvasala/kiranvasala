@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Kiran Vasala  
 
-<!--
-**kiranvasala/kiranvasala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Amazon Cloud Support Specialist (Honors Certificate)** | Cloud & DevOps Enthusiast  
 
-Here are some ideas to get you started:
+💡 Passionate about cloud technologies, automation, and container orchestration. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skilled in**:  
+- ☁️ **AWS**: EC2, S3, IAM, VPC, RDS, CloudFormation, Route 53, CloudWatch.
+- 🐳 **Containers & Orchestration**: Kubernetes (EKS), Helm, Karpenter, Cluster Autoscaler.
+- 🔧 **DevOps Tools**: ArgoCD, Flux, Git, GitHub Actions.
+- 📊 **Monitoring**: CloudWatch Logs, Auto Scaling, IAM Policies.
+- 🖥️ **Other**:Linux, SolidWorks, AutoCAD, ANSYS, CATIA.
+
+### 🎓 Certifications
+
+- **AWS Certified Solutions Architect – Associate (SAA-C03)** — Udemy | Jul 2025  
+- **Amazon Cloud Support Specialist – Honors Certificate** — Correlation One | Aug 2025  
+- **Amazon EKS (Elastic Kubernetes Service)** — AWS Training & Certification | 2025  
+- **LPI Linux Essentials (010-160) Complete Course** — Udemy | Aug 2025  
+
+## 🌐 Connect With Me
+- 📧 Email: kiranvasala6@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
+- 🏅 [Credly](https://www.credly.com/earner/your-link)  
