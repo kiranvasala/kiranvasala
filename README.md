@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Kiran Vasala  
 
-🚀 **Amazon Cloud Support Specialist (Honors Certificate)** | Cloud & DevOps Enthusiast  
-
-💡 Passionate about cloud technologies, automation, and container orchestration. 
+🚀 **Amazon Cloud Support Specialist (Honors Certificate)** | **Cloud & DevOps Enthusiast**  
+💡 Passionate about **cloud technologies, automation, and container orchestration**.  
 
 **Skilled in**:  
 - ☁️ **AWS**: EC2, S3, IAM, VPC, RDS, CloudFormation, Route 53, CloudWatch.
