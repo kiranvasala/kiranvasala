@@ -19,5 +19,5 @@
 
 ## 🌐 Connect With Me
 - 📧 Email: kiranvasala6@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 🏅 [Credly](https://www.credly.com/earner/your-link)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kiran-vasala/)
+- 🏅 [Credly](https://www.credly.com/users/kiran-vasala)
